@@ -1,13 +1,13 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 7 Days Of fastapi Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every day for the next 7 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+March 25, 2024. [PUT YOUR DATE HERE]
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
+1. I will share about my progress every day -> using the hashtag #7DaysOfFastapi
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
