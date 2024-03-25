@@ -1,4 +1,4 @@
-# 7 Days Of Code - Log
+# 7 Days Of Fastapi - Log
 
 ### Day 1: March 25, 2024 - Monday
 
