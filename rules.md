@@ -4,7 +4,10 @@
 ### *I will code for at least an hour every day for the next 7 days.*
 
 #### Start Date
-March 25, 2024. [PUT YOUR DATE HERE]
+March 25, 2024.
+
+#### Start Date
+March 31, 2024.
 
 ## Additional Rules
 1. I will share about my progress every day -> using the hashtag #7DaysOfFastapi
